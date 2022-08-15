@@ -1,0 +1,12 @@
+.my {
+  text-align: center;
+  background-color: rgb(74, 130, 234);
+  height: 100vh;
+  font-size: 28px;
+  color: #fff;
+  padding: 20px;
+}
+
+a{
+  color: #fff;
+}
